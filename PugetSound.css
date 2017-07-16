@@ -1,0 +1,63 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+  height: 100%;
+  font-family: Verdana;
+}
+body {
+  height: 100%;
+  background: url(https://cdn.pixabay.com/photo/2016/04/25/20/55/colorful-1353143_1280.png);
+}
+header {
+  padding: 80px;
+  margin: 20px;
+  background: url(https://www.freewebheaders.com/wordpress/wp-content/gallery/dogs/yellow-labrador-puppies-in-garden-web-header.jpg);
+  font-size: 40px;
+  display: block;
+  width: 80%;
+  text-align: center;
+}
+img{
+  width: 500px;
+  height: auto;
+}
+nav {
+  line-height:;
+  background-color: #02F266;
+  width: 200px;
+  height: 700px;
+  display: inline-block;
+  vertical-align: top;
+}
+nav ul {
+  list-style-type: none;
+}
+a {
+  color: ;
+}
+section {
+  width: 516px;
+  display: inline-block;
+}
+article {
+  background-color: white;
+}
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+aside ul {
+  list-style-type: none;
+}
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}

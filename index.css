@@ -1,0 +1,76 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-color: #C7C2D6;
+    }
+    body {
+      text-align: center;
+     }
+
+    #page-wrap {
+      text-align: left;
+      width: 800px;
+      margin: 0 auto;
+    }
+    header {
+        background-color:#345218;
+        padding:5px;
+        font-size: ;
+        border: 5px solid #245C2B;
+        display: block;
+        margin: 20px;
+        width: 95%;
+        color: #C7C2D6;
+        background:
+        url(https://upload.wikimedia.org/wikipedia/commons/6/68/England_-_English_Summer_Forest_%287183018142%29.jpg)
+    }
+    h1 {
+    text-align: center;
+    }
+    h2 {
+    text-align: center;
+    }
+    img.resize {
+      width: 40%;
+      height: 40%;
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:150px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
